@@ -1,6 +1,11 @@
 {
   "name": "Channels-REST",
   "version": "1.0.0",
+  "authors": [
+      "Daniel Ayepah Mensah",
+      "David Oddoye"
+  ],
+  
   "main": "server/server.js",
   "scripts": {
     "start": "node .",
@@ -19,8 +24,8 @@
     "jshint": "^2.5.6"
   },
   "repository": {
-    "type": "",
-    "url": ""
+    "type": "git",
+    "url": "https://github.com/AccraJs/Channels.REST.git"
   },
   "description": "Channels-REST"
 }
